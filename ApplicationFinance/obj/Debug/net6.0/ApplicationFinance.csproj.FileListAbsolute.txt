@@ -1,0 +1,15 @@
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.csproj.AssemblyReference.cache
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.AssemblyInfoInputs.cache
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.AssemblyInfo.cs
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.csproj.CoreCompileInputs.cache
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\bin\Debug\net6.0\ApplicationFinance.exe
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\bin\Debug\net6.0\ApplicationFinance.deps.json
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\bin\Debug\net6.0\ApplicationFinance.runtimeconfig.json
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\bin\Debug\net6.0\ApplicationFinance.dll
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\bin\Debug\net6.0\ApplicationFinance.pdb
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.dll
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\refint\ApplicationFinance.dll
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.pdb
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ApplicationFinance.genruntimeconfig.cache
+C:\Fatec\16.11.2022\AppFinanceiroSolution\ApplicationFinance\obj\Debug\net6.0\ref\ApplicationFinance.dll

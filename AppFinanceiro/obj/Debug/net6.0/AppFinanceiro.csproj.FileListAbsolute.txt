@@ -1,0 +1,5 @@
+C:\Fatec\16.11.2022\AppFinanceiroSolution\AppFinanceiro\obj\Debug\net6.0\AppFinanceiro.csproj.AssemblyReference.cache
+C:\Fatec\16.11.2022\AppFinanceiroSolution\AppFinanceiro\obj\Debug\net6.0\AppFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec\16.11.2022\AppFinanceiroSolution\AppFinanceiro\obj\Debug\net6.0\AppFinanceiro.AssemblyInfoInputs.cache
+C:\Fatec\16.11.2022\AppFinanceiroSolution\AppFinanceiro\obj\Debug\net6.0\AppFinanceiro.AssemblyInfo.cs
+C:\Fatec\16.11.2022\AppFinanceiroSolution\AppFinanceiro\obj\Debug\net6.0\AppFinanceiro.csproj.CoreCompileInputs.cache
